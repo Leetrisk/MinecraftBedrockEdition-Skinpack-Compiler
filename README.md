@@ -8,7 +8,7 @@ everything else is automated
 - **ADDED ZOMBIE ARMS** (note this is limited to 1 slim and 1 normal skin since it uses the defaults as a base, no way around this, otherwise servers like hive will set you to a random default skin
 
 > [!IMPORTANT]
->Download from releases on the right!
+> Get From releases or this link [Download](https://github.com/Leetrisk/MinecraftBedrockEdition-Skinpack-Compiler/releases/download/Release/MinecraftBedrockEdition-Skinpack-Compiler.rar) !
 >
 
 
