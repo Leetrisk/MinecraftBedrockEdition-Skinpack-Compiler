@@ -5,7 +5,7 @@ Tired of manually using IObit unlocker manually everytime you want to put custom
 here is the answer 😎, this requires nothing other than to get your cape and skin textures, apply them to the correct folders and run the program. 
 everything else is automated
 
-- ADDED ZOMBIE ARMS (note this is limited to 1 slim and 1 normal skin since it uses the defaults as a base, no way around this, otherwise servers like hive will set you to a random default skin
+- **ADDED ZOMBIE ARMS** (note this is limited to 1 slim and 1 normal skin since it uses the defaults as a base, no way around this, otherwise servers like hive will set you to a random default skin
 
 > [!IMPORTANT]
 >Download from releases on the right!
@@ -14,5 +14,5 @@ everything else is automated
 
 **this even works from a fresh minecraft for windows installation**
 
-![Screenshot](screenshot.png) ![Screenshot](screenshot2.png)
+![Screenshot](screenshot.png) ![Screenshot](screenshot3.png) ![Screenshot](screenshot2.png)
 
