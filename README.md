@@ -5,15 +5,16 @@ Tired of manually using IObit unlocker manually everytime you want to put custom
 here is the answer 😎, this requires nothing other than to get your cape and skin textures, apply them to the correct folders and run the program. 
 everything else is automated
 
-- **ADDED ZOMBIE ARMS** (note this is limited to 1 slim and 1 normal skin since it uses the defaults as a base, no way around this, otherwise servers like hive will set you to a random default skin
+
+> [!WARNING]
+>  **REMOVED ZOMBIE ARMS** due to having to remake this, and minecrafts update breaking skins, not using persona/default anymore, functionality for zombie arms is removed, if another way of doing it appears, then i will try to re-add the functionality
+>
+
 
 > [!IMPORTANT]
 > Get From releases or this link [Download](https://github.com/Leetrisk/MinecraftBedrockEdition-Skinpack-Compiler/releases/download/Release/MinecraftBedrockEdition-Skinpack-Compiler.rar) !
 >
 
-> [!WARNING]
-> Get From releases or this link [Download](https://github.com/Leetrisk/MinecraftBedrockEdition-Skinpack-Compiler/releases/download/Release/MinecraftBedrockEdition-Skinpack-Compiler.rar) !
->
 
 
-**this even works from a fresh minecraft for windows installation**
+**this even works from a fresh minecraft for windows installation, also if skins break and no longer updating (are stuck as copies of defaults) just reinstall bedrock and retry this tool**
