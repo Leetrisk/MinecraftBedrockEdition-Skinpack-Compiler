@@ -12,7 +12,7 @@ everything else is automated
 
 
 > [!IMPORTANT]
-> Get From releases or this link [Download](https://github.com/Leetrisk/MinecraftBedrockEdition-Skinpack-Compiler/releases/download/Release/MinecraftBedrockEdition-Skinpack-Compiler.rar) !
+> Get From releases or this link [Download](https://github.com/Leetrisk/MinecraftBedrockEdition-Skinpack-Compiler/releases/download/Release/MinecraftBedrockEdition-Skinpack-Compiler.rar.rar) !
 >
 
 
