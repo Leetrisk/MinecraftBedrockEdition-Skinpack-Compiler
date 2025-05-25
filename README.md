@@ -17,4 +17,4 @@ everything else is automated
 
 
 
-**this even works from a fresh minecraft for windows installation, also if skins break and no longer updating (are stuck as copies of defaults) just reinstall bedrock and retry this tool**
+**this even works from a fresh minecraft for windows installation, if the tool breaks and the in-game skin pack is stuck as default skins, just reinstall your bedrock installation,  the tool should work again after**
