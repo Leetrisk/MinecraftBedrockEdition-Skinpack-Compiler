@@ -13,6 +13,3 @@ everything else is automated
 
 
 **this even works from a fresh minecraft for windows installation**
-
-![Screenshot](screenshot.png) ![Screenshot](screenshot3.png) ![Screenshot](screenshot2.png)
-
