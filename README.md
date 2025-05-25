@@ -18,3 +18,6 @@ everything else is automated
 
 
 **this even works from a fresh minecraft for windows installation, if the tool breaks and the in-game skin pack is stuck as default skins, just reinstall your bedrock installation,  the tool should work again after**
+
+
+![ScreenShot](screenshot01.png)
